@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="initials">
+        <item name="android:textSize">@dimen/big_text_size</item>
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="speciality">
+        <item name="android:textSize">@dimen/medium_text_size</item>
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="group_number">
+        <item name="android:textSize">@dimen/small_text_size</item>
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="orientation_text">
+        <item name="android:textSize">@dimen/medium_text_size</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

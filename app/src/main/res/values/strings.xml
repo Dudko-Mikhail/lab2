@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Localized application</string>
-    <string name="hello_world">hello world!</string>
+    <string name="initials">Dudko Mikhail Vasilievich</string>
+    <string name="speciality">Math and software for mobile devices</string>
+    <string name="group">9th group</string>
+    <string name="landscape_view">Landscape view</string>
+    <string name="portrait_view">Portrait view</string>
+    <string name="unknown_orientation">Unknown orientation</string>
 </resources>

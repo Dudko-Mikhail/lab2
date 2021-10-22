@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Локализированное приложение</string>
-    <string name="hello_world">Привет мир!</string>
+    <string name="initials">Дудко Михаил Васильевич</string>
+    <string name="speciality">Математическое и программное обеспечение мобильных устройств</string>
+    <string name="group">9 группа</string>
+    <string name="landscape_view">Ландшафтный вид</string>
+    <string name="portrait_view">Портретный вид</string>
+    <string name="unknown_orientation">Неизвестная ориентация</string>
 </resources>
